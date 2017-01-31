@@ -28,7 +28,7 @@
         <configuration>
           <warSourceDirectory>webapps</warSourceDirectory>
         </configuration>
-      </plugin>
+      </plugin> 
     </plugins>
   </build>
   
